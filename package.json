@@ -1,0 +1,27 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "an app that converts long url into short valid url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardedsailor/url_shortner.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "mongodb"
+  ],
+  "author": "Raghav Kapoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beardedsailor/url_shortner/issues"
+  },
+  "homepage": "https://github.com/beardedsailor/url_shortner#readme",
+  "dependencies": {
+    "@types/typescript": "^2.0.0"
+  }
+}
