@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/beardedsailor/url_shortner#readme",
   "dependencies": {
-    "@types/typescript": "^2.0.0"
+    "@types/typescript": "^2.0.0",
+    "firebase-admin": "^9.5.0"
   }
 }
